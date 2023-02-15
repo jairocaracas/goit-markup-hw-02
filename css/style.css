@@ -87,7 +87,7 @@ body h5 {
 }
 
 .logo,
-.logo-oscuro {
+.lodo-dark {
   font-family: 'Raleway', serif;
   font-size: 26px;
   font-weight: 700;
@@ -97,7 +97,7 @@ body h5 {
 .logo span {
   color: var(--title-text-color);
 }
-.logo-oscuro span {
+.lodo-dark span {
   color: var(--secondary-text-color);
 }
 
@@ -146,7 +146,7 @@ body h5 {
 
 /* section portfolio */
 
-.portafolio-menu {
+.portfolio-menu {
   background: var(--secondary-bg-color);
   border-style: none;
   padding: 6px 24px 6px 24px;
@@ -155,13 +155,13 @@ body h5 {
   cursor: pointer;
 }
 
-.portafolio-items p {
+.portfolio-items p {
   font-size: 16px;
   font-weight: 400;
 }
 
-.portafolio-menu:hover,
-.portafolio-menu:focus,
+.portfolio-menu:hover,
+.portfolio-menu:focus,
 .round-button:hover,
 .round-button:focus {
   background-color: var(--accent-color);
